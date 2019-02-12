@@ -1,5 +1,5 @@
 # lru
-Fun Relationship app with Instagram auth built on Node
+Fun Relationship (ahem...valentinesdayapproaching...) app with Instagram auth built on Node
 
 Frontend: React.js, GraphQL, Apollo
 Authentication: Passport, OAuth, Instagram
